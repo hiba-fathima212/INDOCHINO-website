@@ -1,0 +1,135 @@
+.sec1 {
+    background-color: rgb(41, 119, 192);
+    padding: 50px 0px;
+}
+
+.sec2 {
+    text-align: center;
+}
+
+.inbox6 {
+    color: black;
+}
+
+.a1 {
+    color: rgb(71, 143, 202);
+    text-decoration: none;
+    background-color: rgb(243, 246, 248);
+    padding: 10px 20px;
+    border-radius: 10px;
+
+}
+
+.a3 {
+    background-color: white;
+    text-decoration: none;
+    color: rgb(42, 121, 211);
+    padding: 10px 20px;
+}
+
+.top_button {
+    margin-top: 50px;
+}
+
+.inbox3 {
+    color: white;
+    width: 300px;
+    margin-top: 80px;
+}
+
+.inbox4 {
+    padding: 40px;
+}
+
+.a2 {
+    border: 2px solid rgb(41, 141, 235);
+    color: rgb(41, 141, 235);
+    text-decoration: none;
+    padding: 5px 50px;
+}
+
+.sec3 {
+    background-color: rgb(41, 141, 235);
+    padding: 30px;
+}
+
+.sec4 {
+    text-align: center;
+    background-color: rgb(22, 22, 22);
+    color: white;
+}
+
+h5 {
+    text-align: center;
+}
+
+.inbox8 {
+    padding: 25px;
+}
+
+.top_button2 {
+    margin-top: 50px;
+}
+
+.inbox5 {
+    padding: 20px 30px;
+    text-align: center;
+}
+
+.inbox6 {
+    padding: 20px 30px;
+    text-align: center;
+}
+
+.inbox7 {
+    padding: 20px 30px;
+    text-align: center;
+}
+
+.inbox9 {
+    padding: 25px;
+}
+
+.img1,
+.img2,
+.img3 {
+    border-radius: 50%;
+    width: 50px;
+    border: solid;
+}
+
+.inbox10,
+.inbox11,
+.inbox12,
+.inbox13,
+.inbox14,
+.inbox15,
+.inbox16,
+.inbox17,
+.inbox18,
+.inbox19 {
+    padding: 20px;
+}
+
+.a4 {
+    background-color: white;
+    text-decoration: none;
+    color: rgb(42, 121, 211);
+    padding: 10px 20px;
+}
+
+.sec6 {
+    text-align: center;
+    background-color: rgb(22, 22, 22);
+    color: white;
+}
+
+.inbox20 {
+    padding: 20px 30px;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.italic {
+    font-style: italic;
+}
